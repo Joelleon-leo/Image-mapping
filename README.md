@@ -1,0 +1,1 @@
+In html ,By using the map and area tags I have created a Image mapping project.In my code I have mapped the tyre, Engine and Disc brake in a bike and while clicking it it is redirected to the particular website.
